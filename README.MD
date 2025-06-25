@@ -13,4 +13,6 @@ No build step is required. Open `index.html` in a browser or serve the repositor
 - **State Estimation** – Generates noisy measurements and performs a simplified state estimation highlighting bad data.
 - **Interactive UI** – Switch between diagram view and detailed tables, adjust load values and export results as CSV files.
 
-All calculations are mocked inside the component for demonstration purposes.
+## Running the Demo
+
+This repository now includes a simple `index.html` page that loads React from a CDN and renders the `LoadFlowCalculator` component. To try it out, open `index.html` in any modern web browser. No build step or server is required.
