@@ -15,3 +15,7 @@ This repository contains a single React component that implements a simple load 
 
 The application does not include a backend; all calculations are mocked within the React component for demonstration purposes.
 
+
+## Running the Demo
+
+This repository now includes a simple `index.html` page that loads React from a CDN and renders the `LoadFlowCalculator` component. To try it out, open `index.html` in any modern web browser. No build step or server is required.
